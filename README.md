@@ -2,7 +2,7 @@
 
 A parser for a subset of Markdown, written in C++17.
 
-# Supports
+## Supports
 
 - `<h1>`
 - `<p>`
